@@ -54,3 +54,5 @@ sudo apt-get update
 ```
 sudo apt-get install build-essential gdb
 ```
+
+- .vscode 내 파일을 수정하여 빌드, 테스트 경로 설정
