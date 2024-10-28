@@ -36,3 +36,21 @@
             Hello, World!
             ...
             ```
+
+### Linux C++ 설치
+- [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
+
+- GCC 컴파일러 설치 확인
+```
+gcc -v
+```
+
+- 패키지 저장소 업데이트
+```
+sudo apt-get update
+```
+
+- GNU 컴파일러 툴과 GDB 디버거 설치
+```
+sudo apt-get install build-essential gdb
+```
