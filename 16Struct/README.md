@@ -93,6 +93,9 @@ int main(void) {
     printf("%s \n", (*calendar).month);
     printf("%d \n", calendar -> year);
 
+    // 동적 메모리 할당 닫기
+    free(calendar);
+
     return 0;
 }
 ```
