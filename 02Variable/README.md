@@ -30,7 +30,7 @@ The size of int is 4 bytes in C.
 
 ### 자료형
 - `int` 정수형, `long long` 값이 큰 정수형, `double` 실수, `bool` 0 혹은 1 (1bit 크기), `chat` 문자 하나 (4bit)
-- `srting`은 C++에서 학습
+- `string`은 C++에서 학습
 - byte와 bit의 관계
   - C와 C++은 컴파일 언어이므로 1byte가 몇 bit일지는 플랫폼(데이터 모델)과 CPU 설계에 따름
   - Java와 Python은 동일한 코드로 동일한 바이너리를 생성할 수 있음

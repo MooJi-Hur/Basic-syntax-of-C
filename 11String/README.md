@@ -86,4 +86,4 @@ int main(void) {
     printf("복사된 문자열 : %s\n", myNameIs);
     return 0;
 }
-```ß
+```
