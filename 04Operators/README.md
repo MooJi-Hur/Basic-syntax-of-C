@@ -152,7 +152,7 @@ int main() {
     // AND 연산
     int andResult = a & b;  
     // 각 자리마다 모두 1이 있는 경우만 1로 반환
-    printf("a & b = %d (0101 & 0011 = 0001)\n", a & b, andResult);
+    printf("a & b = %d (0101 & 0011 = 0001)\n", andResult);
 
     // OR 연산
     int orResult = a | b; 
